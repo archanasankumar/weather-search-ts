@@ -145,7 +145,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [OpenWeather API](https://openweathermap.org/api) for weather data
 - [MUI](https://mui.com/material-ui/getting-started/) for UI Components
 - [Vite](https://vitejs.dev/) for the build tool
-- [React Icons](https://react-icons.github.io/react-icons/) for icons
 
 ## 📸 Screenshots
 
