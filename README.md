@@ -2,7 +2,7 @@
 
 A modern weather application built with React and TypeScript, featuring real-time weather data from OpenWeather API.
 
-![App Screenshot](https://github.com/archanasankumar/weather-search-ts/main/screenshot.png?raw=true)
+![App Screenshot](https://github.com/archanasankumar/weather-search-ts/blob/main/screenshot/output.png?raw=true)
 
 ## ✨ Features
 
