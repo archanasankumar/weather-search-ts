@@ -35,12 +35,12 @@ A modern weather application built with React and TypeScript, featuring real-tim
 
 1. Clone the repository
 ```bash
-git clone https://github.com/syawqy/react-weather-dashboard.git
+git clone https://github.com/archanasankumar/weather-search-ts.git
 ```
 
 2. Navigate to project directory
 ```bash
-cd react-weather-dashboard
+cd weather-search-ts
 ```
 
 3. Install dependencies
@@ -95,10 +95,10 @@ react-weather-dashboard/
    - Humidity
    - Wind speed
 
-## 🧪 Running Tests
+## 🧪 Running App
 
 ```bash
-npm run test
+npm run dev
 ```
 
 ## 🚀 Deployment
@@ -108,9 +108,9 @@ npm run test
 npm run build
 ```
 
-2. Preview the build
+2. Format the app
 ```bash
-npm run preview
+npm run format
 ```
 
 ## 🐛 Common Issues & Solutions
